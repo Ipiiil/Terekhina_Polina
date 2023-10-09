@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 World hello
 A
 CC
@@ -7,9 +7,3 @@ HEAD
 
 CCC
 Kj
-=======
-World hello!
-
-CCC
->>>>>>> 53760a2 (Third commit/Second_file in Br1)
-B
