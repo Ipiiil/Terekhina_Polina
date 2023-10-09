@@ -1,3 +1,5 @@
 World hello
 A
+CC
+Init
 B
